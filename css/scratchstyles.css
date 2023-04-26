@@ -1,9 +1,3 @@
-@media (prefers-reduced-motion: no-preference) {
-  :root {
-    scroll-behavior: smooth;
-  }
-}
-
 p{
     text-align: center;
     font-size: 19px;

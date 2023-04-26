@@ -1,0 +1,150 @@
+p{
+    text-align: center;
+    font-size: 19px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+h3{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+b1{
+    font-weight: 600;
+    color: red;
+}
+
+b2{
+    font-weight: 600;
+    color: palevioletred;
+}
+
+b3{
+    font-weight: 600;
+    color: gray;
+}
+
+b4{
+    font-weight: 600;
+    color: orange;
+}
+
+b5{
+    font-weight: 600;
+    color: green;
+}
+
+b6{
+    font-weight: 600;
+    color: yellow;
+    background-color: black;
+    text-emphasis-color:inherit;
+}
+
+
+b7{
+    font-weight: 600;
+    color: purple;
+}
+
+b8{
+    font-weight: 600;
+    color: white;
+    background-color: black;
+    text-emphasis-color:inherit;
+}
+
+.common{
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header{
+    background-image:url(https://www.gohawaii.com/sites/default/files/styles/image_gallery_bg_xl/public/hero-unit-images/Homepage_Hero_042019v1.jpg?itok=JquDLD-V);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center;
+    width: 100%;
+    margin: 0%;
+    overflow: hidden;
+    color:whitesmoke;
+    height: 200px;
+    line-height: 200px;
+    text-align:center;
+    font-size: 23px;
+}
+
+nav{
+    background-color:lightblue;
+    padding: 0px;
+    overflow: hidden;
+}
+nav a:hover{
+    background-color: #ccc;
+}
+nav a{
+    float: left;
+    color: whitesmoke;
+    padding: 3px 13px;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+.footer{
+    height: 25px;
+    background-color: black;
+    color: white;
+    line-height: 25px;
+    position:relative;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+
+li{
+    text-align: left;
+    color: black;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    list-style-position:inside;
+}
+
+ol{
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+    list-style-type: circle;
+}
+
+.tableauPlaceholder{
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+
+.top{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: center;
+}

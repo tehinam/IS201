@@ -2,6 +2,7 @@ p{
     text-align: center;
     font-size: 19px;
     font-family:Georgia, 'Times New Roman', Times, serif
+    overflow-x: hidden;
 }
 
 h3{
@@ -90,6 +91,7 @@ nav a{
     font-size: 18px;
     text-decoration: none;
     font-weight: bold;
+    overflow-x: hidden;
 }
 
 body{
@@ -114,6 +116,7 @@ img{
     margin-left: auto;
     margin-right: auto;
     width: 500px;
+    overflow-x: hidden;
 }
 
 li{
@@ -122,6 +125,7 @@ li{
     font-size: 18px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     list-style-position:inside;
+    overflow-x: hidden;
 }
 
 ol{
@@ -145,10 +149,12 @@ iframe{
     margin-left: auto;
     margin-right: auto;
     width: 500px;
+    overflow-x: hidden;
 }
 
 .top{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: medium;
     text-align: center;
+    overflow-x: hidden;
 }
